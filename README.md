@@ -13,7 +13,7 @@ A simple 2048 game implemented in Python. Play directly in the terminal or exten
    git clone https://github.com/yourusername/python-2048.git
    cd python-2048
    ```  
-2. Run the game: 
+2. Run the game:  
    ```sh    
    python main.py  
    ``` 
