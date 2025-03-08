@@ -20,7 +20,7 @@ A simple 2048 game implemented in Python. Play directly in the terminal or exten
 
 ## Controls
 - Use `W`, `A`, `S`, `D` or arrow keys to move tiles.
-- Merge tiles to reach 2048!
+- Merge tiles to reach 2048! 
 
 ## Contributing
 Feel free to fork this repository and submit pull requests.
