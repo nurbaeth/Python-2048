@@ -15,7 +15,7 @@ A simple 2048 game implemented in Python. Play directly in the terminal or exten
    ```  
 2. Run the game:    
    ```sh      
-   python main.py   
+   python main.py    
    ``` 
 
 ## Controls
