@@ -7,7 +7,7 @@ A simple 2048 game implemented in Python. Play directly in the terminal or exten
 - Playable in the terminal
 - Easy to extend with a GUI (e.g., using Tkinter or Pygame)
 
-## Installation
+## Installation 
 1. Clone the repository:   
    ```sh
    git clone https://github.com/yourusername/python-2048.git
